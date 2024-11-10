@@ -1,4 +1,4 @@
-package connection;
+package org.example.taks_management.connection;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,10 +1,7 @@
 package org.example.taks_management;
 
-import connection.DataStaxAstraProperties;
-import controller.TaskManagerController;
-import jakarta.annotation.PostConstruct;
+import org.example.taks_management.connection.DataStaxAstraProperties;
 import lombok.RequiredArgsConstructor;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.cassandra.CqlSessionBuilderCustomizer;

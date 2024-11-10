@@ -1,7 +1,7 @@
-package controller;
+package org.example.taks_management.controller;
 
 import lombok.RequiredArgsConstructor;
-import mapper.TaskMapper;
+import org.example.taks_management.mapper.TaskMapper;
 import org.example.taks_management.repository.TaskByUserRepository;
 import org.example.taks_management.repository.TaskRepository;
 import org.example.taks_management.repository.UserRepository;
