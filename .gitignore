@@ -36,12 +36,12 @@ build/
 src/main/resources/secure-connect.zip
 
 ### mvn ###
-mvnw
-mvnw.cmd
+.mvn/mvnw
+.mvn/mvnw.cmd
 .mvn
 
 ### git ###
-.gitattributes
+.mvn/.gitattributes
 
 ### .env ###
 /src/main/resources/.env

@@ -11,7 +11,7 @@ Simple project to learn how to use Cassandra Database with Spring Boot.
 ### task_by_id
 - task_id UUID PK
 - user_id UUID
-- title TEXT
+- title TEXTgit fetch
 - description TEXT
 - status TEXT
 - created_at TIMESTAMP
